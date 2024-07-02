@@ -3,6 +3,7 @@
   "version": "4.0.0-rc1",
   "description": "React wrapper of Leaflet.markercluster for react-laeflet",
   "main": "dist/index.js",
+  "types": "types.d.ts",
   "repository": "git@github.com:changey/react-leaflet-markercluster.git",
   "keywords": [
     "react",
